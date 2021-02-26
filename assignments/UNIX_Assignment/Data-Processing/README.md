@@ -29,7 +29,7 @@ By inspecting this file I learned that:
 4. 38K 
 5. 15 columns
 
-## Prep_Data Processing
+## Pre_Data Processing
 
 ### Maize Data
 
